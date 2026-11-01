@@ -1,0 +1,18 @@
+================================
+RUMAH SAKIT TANIA MEDIKA
+JL. AZIZAH SHELBY NO. 67, JAWA BARAT
+================================
+NOMOR ANTRIAN  : U-001
+
+Nama           : Najla Nurtania Azizah
+
+Umur           : 15
+
+NIK            : 1234567890123456
+
+Poli           : Umum
+
+Dokter & janji temu  : Dr. Fandra (15:00-19:00)
+================================
+Waktu Cetak  : Sun Nov  1 10:59:48 2026
+================================
